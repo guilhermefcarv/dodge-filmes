@@ -1,0 +1,98 @@
+*{
+scroll-behavior: smooth;
+}
+body {
+padding-top: 56px;
+
+}
+
+.titulo-filme{
+margin-left: 30px;
+}
+
+.elenco{
+margin-left: 30px;
+}
+
+.estrela-avaliacao{
+color: #9c85be;
+}
+
+.data-filme{
+    color: #878787;
+}
+
+.carousel-indicators{
+    color: black;
+    margin-top: 100%;
+}
+
+.card{
+border: none;
+}
+
+.titulo-secao{
+font-family: 'Fjalla One', sans-serif;
+}
+
+.seleciona{
+border-color: #2e2e2e;
+}
+
+
+.lancamentos{
+background-color: "#f7f2ff";
+}
+
+.seleciona{
+    border-color: #2e2e2e;
+    }
+ 
+    
+.icone{
+    font-size: 20px;
+    background-color: #f2f2f2;
+    color: #878787;
+    padding: 20px;
+    border-radius: 90px;
+    }
+ 
+    
+.tit-papa{
+    font-weight: 670;
+    }
+ 
+    
+.data-filme{
+    font-weight: 500;
+    float: right;
+    }
+    
+
+.avaliacao{
+        /sem style/
+    }
+
+    .entrevistas{
+        background-color: #e3e3e3;
+        }
+        
+        .icone-editorial{
+        font-weight: 700;
+        font-size: 20px;
+        }
+        
+        .icon-redes{
+            font-size: 3rem;
+        }
+
+.logo-rodape{
+    text-align: center;
+    font-size: 20px;
+    color: #878787;
+}
+
+
+
+
+----------------------------
